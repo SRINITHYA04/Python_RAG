@@ -1,0 +1,22 @@
+Machine Learning is a branch of Artificial Intelligence that enables systems to learn from data.
+
+Types of Machine Learning:
+
+1. Supervised Learning
+2. Unsupervised Learning
+3. Reinforcement Learning
+
+Common ML Algorithms:
+
+1. Linear Regression
+2. Decision Trees
+3. Random Forest
+4. K-Means Clustering
+
+Applications of Machine Learning:
+
+1. Recommendation Systems
+2. Chatbots
+3. Image Recognition
+4. Fraud Detection
+5. Self-driving Cars 

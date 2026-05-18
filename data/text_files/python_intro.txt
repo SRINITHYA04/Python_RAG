@@ -1,0 +1,22 @@
+"Python is a popular programming language known for its simplicity and readability.
+
+Features of Python:
+
+1. Easy to learn
+2. Beginner friendly
+3. Large community support
+4. Used in web development, AI, automation, and data science
+
+Basic Python Example:
+
+    print("Hello World")
+
+Python supports variables, functions, loops, classes, and modules.
+
+Python is widely used in:
+
+1. Machine Learning
+2. Data Analysis
+3. Backend Development
+4. Automation
+5. Artificial Intelligence
