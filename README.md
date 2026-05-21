@@ -111,7 +111,7 @@ Project_RAG/
 │   ├── vector_db/
 │
 ├── notebooks/
-│   └── rag_pipeline.ipynb
+│   └── document.ipynb
 │
 ├── .env
 ├── requirements.txt
@@ -200,29 +200,7 @@ The context and user query are passed to a Groq-hosted LLM for answer generation
 
 ---
 
-## Example Query
 
-### Question
-
-```text
-What are the main steps in a RAG pipeline?
-```
-
-### Generated Answer
-
-```text
-The main steps in a RAG pipeline are:
-
-1. Document Loading
-2. Text Chunking
-3. Embedding Generation
-4. Vector Database Storage
-5. Semantic Retrieval
-6. Context Augmentation
-7. LLM Response Generation
-```
-
----
 
 ## Setup Instructions
 
